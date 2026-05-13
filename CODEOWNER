@@ -1,0 +1,10 @@
+# All frontend files
+/frontend/*.html @Bfatma123
+/frontend/*.css  @Bfatma123
+/frontend/*.js   @Bfatma123
+
+# PHP backend
+/backend/*.php   @qumarzaidi123
+
+# Jenkins pipeline
+Jenkinsfile      @qumarzaidi123
